@@ -2,4 +2,5 @@
 
 ## Sumário
 
-- Aula 1 - comando if else
+- Aula 1 - Comando if else
+- Aula 2 - Estrutura de repetição for
