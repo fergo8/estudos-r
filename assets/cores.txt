@@ -1,0 +1,5 @@
+LETRA   COR
+A   Azul
+B   Verde
+C   Amarelo
+D   Vermelho
